@@ -1,0 +1,25 @@
+# Archives, distributions
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Databases, logs
+*.log
+*.sql
+*.sqlite
+
+# Special files of operating systems
+Thumbs.db
+Desktop.ini
+.DS_Store*
+ehthumbs.db
+Icon?
+
+# Node modules, npm logs
+node_modules
+npm-debug.log
