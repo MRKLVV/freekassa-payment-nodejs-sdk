@@ -1,0 +1,18 @@
+{
+  "name": "@freekassa",
+  "version": "1.0.0",
+  "description": "Universal payments API SDK for freekassa",
+  "homepage": "https://github.com/MRKLVV/freekassa-payment-nodejs-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:MRKLVV/freekassa-payment-nodejs-sdk.git"
+  },
+  "author": "Nikita Markelov",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MRKLVV/freekassa-payment-nodejs-sdk/issues"
+  }
+}
