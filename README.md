@@ -1,5 +1,5 @@
 # freekassa-payment-nodejs-sdk
-## Version: 1.0.2
+## Version: 1.0.0
 
 Node.js SDK module for the implementation of a single payment protocol acquiring Freekassa
 
