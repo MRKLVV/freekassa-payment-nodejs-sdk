@@ -1,5 +1,5 @@
 {
-  "name": "@freekassa",
+  "name": "freekassa",
   "version": "1.0.0",
   "description": "Universal payments API SDK for freekassa",
   "homepage": "https://github.com/MRKLVV/freekassa-payment-nodejs-sdk",
