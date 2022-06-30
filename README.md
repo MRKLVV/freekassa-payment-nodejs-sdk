@@ -5,7 +5,7 @@ Node.js SDK module for the implementation of a single payment protocol acquiring
 
 Installation using npm:
 ```bash
-$ npm install @freekassa-payment-nodejs-sdk
+$ npm install MRKLVV/freekassa-payment-nodejs-sdk
 ```
 
 Connection:
