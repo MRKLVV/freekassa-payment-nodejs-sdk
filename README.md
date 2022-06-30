@@ -1,11 +1,11 @@
 # freekassa-payment-nodejs-sdk
-## Version: 1.0.0
+## Version: 1.0.2
 
 Node.js SDK module for the implementation of a single payment protocol acquiring Freekassa
 
 Installation using npm:
 ```bash
-$ npm install MRKLVV/freekassa-payment-nodejs-sdk
+$ npm i freekassa-payment-nodejs-sdk
 ```
 
 Connection:
