@@ -16,13 +16,13 @@ const FK = require('@freekassa');
 ## Documentation
 **Step-by-step guide to working with the API**: https://docs.freekassa.ru <br>
 
-To use the SDK, you need `Your store ID`, `Secret Word 1`, `Secret Word 2`, details in the documentation — https://docs.freekassa.ru <br>
+To use the SDK, you need `Your store ID`, `Secret Word 1`, `Secret Word 2`, `IP Address` details in the documentation — https://docs.freekassa.ru <br>
 
 ```javascript
 const fkMerchantID = 'You store ID';
 const fkFirstSecret = 'Secret Word 1';
 const fkSecondSecret = 'Secret Word 2';
-const fkIpAddress = 'Secret Word 2';
+const fkIpAddress = 'IP Address';
 
 const freekassa = new FreeKassaPaymentsAPI(fkMerchantID, fkFirstSecret, fkSecondSecret, fkIpAddress);
 ```
@@ -65,7 +65,7 @@ As a result:
 
 ### Billing information
 
-The 'getPaymentFK` method returns account information. In the parameters, you need to specify the `orderHash` identifiers and the billing time inside your system, as a result, a response with the account status will be received.
+The 'getPaymentFK' method returns account information. In the parameters, you need to specify the `orderHash` identifiers and the billing time inside your system, as a result, a response with the account status will be received.
 
 ```javascript
 const fields = {
